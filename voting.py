@@ -11,4 +11,4 @@ if age < 18:
     print("Sorry, you need to be 18 or above to submite your vote.")
 
 if age == 18:
-    print("Your vote has been submitted.")
+    print("Vote submitted.")
